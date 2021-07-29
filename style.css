@@ -1,0 +1,17 @@
+/* header file */
+header{
+    background-color:  #264653;
+}
+.card{
+    align-items: center;
+    padding: 40px 35px;
+    width: 322px;
+
+}
+.card img{
+    width: 149px;
+height: 149px;
+}
+.card-icon{
+    color: #E76F51;
+}
